@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,60:1677FF,100:18C7B5&height=190&section=header&text=Jorge%20Farfán&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Frontend%20%26%20Backend%20Developer%20·%20Lima,%20Perú&descAlignY=58&descSize=17" width="100%" alt="Jorge Farfán" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,60:1677FF,100:18C7B5&height=190&section=header&text=Jorge%20Farf%C3%A1n&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Frontend%20%26%20Backend%20Developer%20%C2%B7%20Lima,%20Per%C3%BA&descAlignY=58&descSize=17" width="100%" alt="Jorge Farfán" />
 
 <a href="https://github.com/kenshi241011">
-  <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=700&size=22&duration=3000&pause=900&color=18C7B5&center=true&vCenter=true&width=620&lines=Jefe+de+proyecto+en+ANDARA;Construyo+webs+y+apps+de+principio+a+fin;React+·+Node.js+·+React+Native+·+Supabase" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=700&size=22&duration=3000&pause=900&color=18C7B5&center=true&vCenter=true&width=620&lines=Jefe+de+proyecto+en+ANDARA;Construyo+webs+y+apps+de+principio+a+fin;React+%C2%B7+Node.js+%C2%B7+React+Native+%C2%B7+Supabase" alt="Typing SVG" />
 </a>
 
 </div>
