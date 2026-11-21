@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230" role="img" aria-label="Jorge Farfán · Frontend &amp; Backend Developer">
+  <defs>
+    <linearGradient id="fondo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1F3A"/>
+      <stop offset="0.65" stop-color="#12294A"/>
+      <stop offset="1" stop-color="#1B355C"/>
+    </linearGradient>
+    <linearGradient id="ola" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1677FF"/>
+      <stop offset="1" stop-color="#18C7B5"/>
+    </linearGradient>
+    <clipPath id="marco"><rect width="1000" height="230" rx="18"/></clipPath>
+  </defs>
+  <style>
+    .nombre { font: 800 48px "Segoe UI", Raleway, Helvetica, Arial, sans-serif; fill: #fff; letter-spacing: 1px; }
+    .sub { font: 600 19px "Segoe UI", Helvetica, Arial, sans-serif; fill: #B9C6D8; letter-spacing: 3px; }
+    .rol { font: 700 20px "Segoe UI", Helvetica, Arial, sans-serif; fill: #18C7B5; opacity: 0; }
+    .rol1 { animation: ciclo 9s infinite 0s; }
+    .rol2 { animation: ciclo 9s infinite 3s; }
+    .rol3 { animation: ciclo 9s infinite 6s; }
+    @keyframes ciclo { 0% {opacity:0; transform: translateY(8px);} 5%,28% {opacity:1; transform: none;} 33%,100% {opacity:0; transform: translateY(-8px);} }
+    .capa1 { animation: mover 14s ease-in-out infinite alternate; }
+    .capa2 { animation: mover 10s ease-in-out infinite alternate-reverse; }
+    @keyframes mover { from { transform: translateX(0); } to { transform: translateX(-60px); } }
+    .cursor { animation: parpadeo 1s steps(1) infinite; }
+    @keyframes parpadeo { 50% { opacity: 0; } }
+  </style>
+  <g clip-path="url(#marco)">
+    <rect width="1000" height="230" fill="url(#fondo)"/>
+    <!-- franja diagonal -->
+    <path d="M760 -20 L1040 -20 L1040 40 L640 260 L520 260 Z" fill="#1677FF" opacity="0.18"/>
+    <path d="M860 -20 L880 -20 L620 260 L600 260 Z" fill="#18C7B5" opacity="0.5"/>
+    <!-- cordillera -->
+    <path class="capa1" d="M-20 230 L-20 175 L80 150 L170 168 L270 120 L360 160 L460 135 L560 172 L670 125 L770 160 L880 130 L1080 165 L1080 230 Z" fill="#1677FF" opacity="0.22"/>
+    <path class="capa2" d="M-20 230 L-20 200 L110 182 L220 198 L340 170 L450 200 L580 180 L700 205 L830 182 L1080 200 L1080 230 Z" fill="url(#ola)" opacity="0.55"/>
+    <!-- ícono de código -->
+    <g transform="translate(62 58)">
+      <rect width="76" height="76" rx="18" fill="#1677FF" opacity="0.18" stroke="#18C7B5" stroke-opacity="0.6"/>
+      <path d="M28 26 L16 38 L28 50 M48 26 L60 38 L48 50 M42 22 L34 54" fill="none" stroke="#18C7B5" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <text class="nombre" x="160" y="98">Jorge Farfán</text>
+    <text class="sub" x="162" y="130">FRONTEND &amp; BACKEND DEVELOPER · LIMA, PERÚ</text>
+    <text class="rol rol1" x="162" y="162">&gt; Jefe de proyecto en ANDARA</text>
+    <text class="rol rol2" x="162" y="162">&gt; Construyo webs y apps de principio a fin</text>
+    <text class="rol rol3" x="162" y="162">&gt; React · Node.js · React Native · Supabase</text>
+  </g>
+</svg>

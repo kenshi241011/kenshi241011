@@ -1,12 +1,6 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,60:1677FF,100:18C7B5&height=190&section=header&text=Jorge%20Farf%C3%A1n&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Frontend%20%26%20Backend%20Developer%20%C2%B7%20Lima,%20Per%C3%BA&descAlignY=58&descSize=17" width="100%" alt="Jorge Farfán" />
-
-<a href="https://github.com/kenshi241011">
-  <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=700&size=22&duration=3000&pause=900&color=18C7B5&center=true&vCenter=true&width=620&lines=Jefe+de+proyecto+en+ANDARA;Construyo+webs+y+apps+de+principio+a+fin;React+%C2%B7+Node.js+%C2%B7+React+Native+%C2%B7+Supabase" alt="Typing SVG" />
-</a>
-
-</div>
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" alt="Jorge Farfán · Frontend & Backend Developer" />
+</p>
 
 ---
 
@@ -68,4 +62,4 @@
   <a href="https://www.facebook.com/jorge.jesus.farfan.ramos.2025"><img src="https://img.shields.io/badge/Facebook-0B1F3A?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:18C7B5,40:1677FF,100:0B1F3A&height=110&section=footer" width="100%" alt="" />
+<img src="./assets/pie.svg" width="100%" alt="" />
