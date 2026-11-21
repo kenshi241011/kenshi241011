@@ -11,6 +11,7 @@
 🇬🇧 **Full-stack developer** from **Lima, Peru**. I lead web development at **ANDARA**, a tourism and technology consultancy, and build websites, mobile apps and APIs for real businesses.
 
 - 🚀 Ahora mismo / Currently: **ANDARA** (React + Vite) con un equipo de 3 personas
+- 📱 Mi red social / My social network: **Feed**
 - 🛡️ También / Also: **Kenshi Security**, mi proyecto de seguridad
 - 💬 Pregúntame sobre / Ask me about: React, Node.js, apps con Expo y Supabase
 
@@ -21,19 +22,27 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,express,php&perline=9" alt="Lenguajes y frameworks" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,supabase,firebase,mysql,git,github,vscode,vercel&perline=9" alt="Herramientas" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,mysql,git,github,vscode,vercel&perline=9" alt="Herramientas" />
 </p>
 
 ---
 
 ### 📂 Proyectos destacados | Featured projects
 
+> ### 📱 Feed · mi red social
+> 🇪🇸 **Feed** es la red social que creé desde cero para Android, con todo lo que esperas de una red social moderna:
+>
+> 📝 Publicaciones, comentarios y seguidores · 🎬 Reels e historias con música · 💬 Chat privado y grupos · 📄 Páginas · 🎮 Juegos, ranking y recompensas diarias · 🛍️ Tienda · 🤖 Asistente virtual Jenny · 🔔 Notificaciones push · 🛡️ Panel de moderación
+>
+> 🇬🇧 **Feed** is the social network I built from scratch for Android: posts, reels, stories, chat, groups, pages, games, push notifications and a moderation panel.
+>
+> <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,androidstudio" alt="Stack de Feed: Flutter, Dart, Firebase, Node.js, Android Studio" />
+
 | Proyecto | Qué es | Stack |
 |----------|--------|-------|
 | 🏔️ **ANDARA** | Sitio web de una consultoría en turismo y tecnología. Animaciones, diseño adaptable y trabajo en equipo con PRs | React · Vite · CSS |
 | 🛡️ [**Kenshi Security**](https://github.com/kenshi241011/kenshi-website) | Sitio web y sistema de actualizaciones de Kenshi Security | HTML · CSS · JS |
 | 🔧 **Wankel Prime** | Marketplace de repuestos para autos | Expo · TypeScript · Supabase |
-| 📱 **Feed Social** | App de red social | Flutter · Dart |
 | 🧾 [**Facturador online**](https://github.com/kenshi241011/facturador-online) | Sistema de facturación en la web | JavaScript |
 | 🐾 [**API Veterinaria**](https://github.com/kenshi241011/api-veterinaria) | API para gestionar una veterinaria | Node.js |
 | 🤖 [**Asistente Jenny**](https://github.com/kenshi241011/asistente-jenny-nueva) | Asistente virtual | JavaScript |
